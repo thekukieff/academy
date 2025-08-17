@@ -109,9 +109,10 @@ values
 
 Insert into Groups([name], [year], departmentId)
 values
-('C-o-C-a-1', 15,1),
+('P32', 15,1),
 ('e4-e5',89,2);
 
 select *from Faculties
---урок номер 2 alter table, 5 таблица
+--ГіГ°Г®ГЄ Г­Г®Г¬ГҐГ° 2 alter table, 5 ГІГ ГЎГ«ГЁГ¶Г 
+
 
